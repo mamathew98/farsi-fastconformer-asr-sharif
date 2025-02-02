@@ -1,0 +1,12 @@
+# Python packages
+wget
+text-unidecode
+matplotlib>=3.3.2
+ffmpeg-python
+gradio
+numpy
+torch
+torchaudio
+
+# Install NeMo from the Git repository (branch: main)
+git+https://github.com/NVIDIA/NeMo.git@main#egg=nemo_toolkit[all]
