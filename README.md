@@ -184,4 +184,4 @@ DEALINGS IN THE SOFTWARE.
 ## Contact
 For inquiries or collaborations, feel free to contact 
 - [Mohammad Naseri] at: [mohammad.na3ri@gmail.com]
-- [Pooya Fallah] at: [-]
+- [Pooya Fallah] at: [pooyafallah79@gmail.com]
